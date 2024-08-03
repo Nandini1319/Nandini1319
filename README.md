@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Nandini Verma
 
 <!--
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently a student pursuing my graduation.
 - 🌱 I’m currently learning economics at Daulat Ram College.
 - 👯 I’m looking to collaborate on newbie projects. 
 - 💬 Ask me about anything you want, I would love to answer.
